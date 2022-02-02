@@ -1,0 +1,2 @@
+# conventionalcommit
+configuration conventional commit
